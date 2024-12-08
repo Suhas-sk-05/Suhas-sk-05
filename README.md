@@ -1,9 +1,12 @@
 # ✨ Welcome to My Profile! ✨  
 
-Hi there! I'm **Suhas-sk-05** 👋  
+<br>
 
+<h1 align="center">Hi 👋, I'm Suhas S K</h1>
+<h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
-<img src="https://camo.githubusercontent.com/68ff39d18b54100c1967b24e366645416ed4e956ba8d2c96d558f63754f1c35d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6368616e64616e73676f776461266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="chandansgowda" data-canonical-src="https://komarev.com/ghpvc/?username=chandansgowda&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhas-sk-05&label=Profile%20views&color=0e75b6&style=flat" alt="Suhas" /> </p>
+
 ---
 
 <div align="center">
